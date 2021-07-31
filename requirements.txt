@@ -1,0 +1,4 @@
+pytorch
+git+git://github.com/openai/multiagent-particle-envs.git
+numpy
+matplotlib
